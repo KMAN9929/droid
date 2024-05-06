@@ -1,0 +1,21 @@
+def print_menu():
+    print(f"Welcome to the droid interface. Righ now, you can just create a droid, but ")
+    print(r"""
+
+         ,     ,
+    (\____/)
+     (_oo_)
+       (O)
+     __||__    \)
+  []/______\[] /
+  / \______/ \/
+ /    /__\
+(\   /____\
+
+
+    """)
+
+def create_droid(name,skill,battery,level):
+    print()
+def main():
+    print_menu()           
